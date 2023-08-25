@@ -1,0 +1,58 @@
+baseURL = 'https://suvasish114.github.io/blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-blog-awesome'
+publishDir = "docs"
+
+
+enableEmoji = true
+
+[menu]
+	[[menu.main]] 
+    	pageRef="/"
+    	name = 'Home'
+    	url = '/'
+    	weight = 10
+	[[menu.main]]
+    	pageRef="posts"
+    	name = 'Posts'
+    	url = '/posts/'
+    	weight = 20
+	[[menu.main]]
+		pageRef="about"
+		name = 'About'
+		url = 'https://suvasish114.github.io/'
+		weight = 30
+
+[params]
+	sitename = "Suvasish"
+	defaultColor = "auto" # set default color mode: dark or light or auto
+	description = "I'm Suvasish Das"
+	mainSections = ['posts']
+	goToTop = true # set to false to disable 'go to top' button
+
+[params.author]
+	avatar = "images/Profile.png"
+	intro = "👋️ Hello World 🌎️"
+	name = "Suvasish"
+	description = "I'm Suvasish Das"
+
+	[[params.socialIcons]] 
+	name = "github" 
+	url = "https://github.com/suvasish114" 
+  
+	[[params.socialIcons]] 
+	name = "twitter" 
+	url = "https://twitter.com/suvasish114" 
+
+	[[params.socialIcons]]
+	name = "linkedin"
+	url = "https://www.linkedin.com/in/suvasish114/"
+ 
+	[[params.socialIcons]]
+	name = "instagram"
+	url = "https://www.instagram.com/suvasish114"
+
+	[[params.socialIcons]] 
+	name = "Rss" 
+	url = "index.xml"

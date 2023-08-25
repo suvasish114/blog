@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://suvasish114.github.io/blog/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Aug 2023 15:03:27 +0530</lastBuildDate><atom:link href="https://suvasish114.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://suvasish114.github.io/blog/posts/hello-world/</link>
+      <pubDate>Fri, 25 Aug 2023 15:03:27 +0530</pubDate>
+      
+      <guid>https://suvasish114.github.io/blog/posts/hello-world/</guid>
+      <description>Lorem ipsum dolor sit amet, link consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisl purus in mollis nunc sed id. In eu mi bibendum neque egestas congue quisque egestas diam. Auctor urna nunc id cursus metus aliquam eleifend mi. Ornare arcu odio ut sem nulla. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. Habitasse platea dictumst vestibulum rhoncus est. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus.</description>
+    </item>
+    
+  </channel>
+</rss>
